@@ -1,3 +1,11 @@
+/*Abner Ferreira Costa – Mat. 2323829
+ *Anyele Ventura Lima – Mat. 2323813
+ *David Khauan Santos Lima – Mat. 2323791
+ *Julianna Dantas Alencar Reis – Mat. 2323726
+ *Mario Sergio Cordeiro Lima – Mat. 2327073
+ *Matheus Ferreira de Queiroz Alves – Mat. 2323824 
+ */
+
 import java.io.*;
 
 public class IndiceRemissivo {
